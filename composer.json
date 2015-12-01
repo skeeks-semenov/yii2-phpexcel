@@ -1,5 +1,5 @@
 {
-	"name": "alexgx/yii2-phpexcel",
+	"name": "skeeks/yii2-phpexcel",
 	"description": "PhpExcel component extension for Yii2.",
 	"keywords": ["yii", "extension", "component", "PhpExcel"],
 	"type": "yii2-extension",
@@ -13,7 +13,7 @@
 	],
 	"require": {
 		"yiisoft/yii2": "*",
-		"phpoffice/phpexcel": "1.8.0"
+		"phpoffice/phpexcel": "*"
 	},
 	"autoload": {
 		"psr-4": {
